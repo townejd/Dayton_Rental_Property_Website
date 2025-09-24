@@ -26,7 +26,7 @@ root/
 ├── index.html # Base html file
 ├── README.md # Project documentation
 ├── package-lock.json
-├── package.json # Defines project metadata
+├── package.json # Project metadata
 ├── vite.config.js # Vite configuration file
 └── eslint.config.js
 ```
